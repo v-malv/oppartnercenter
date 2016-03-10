@@ -1,6 +1,3 @@
------
-description: OP PartnerCenter
------
 ---
 2.3.0.0: .NET Framework 2.0
 2.3.5.0: Windows Store apps, .NET Framework 4, Silverlight 5
@@ -9,7 +6,9 @@ description: OP PartnerCenter
 4.3.0.0: .NET Framework 4, .NET Framework 4.5
 4.3.1.0: .NET Framework 4, .NET Framework 4.5
 ---
-
+-----
+description: OP PartnerCenter
+-----
 # Common Table
 
 ## No.1
